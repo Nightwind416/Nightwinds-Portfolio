@@ -1,2 +1,10 @@
-# Nightwinds-Portfolio
-This folder showcases projects I have completed.
+# Nightwinds Portfolio
+Nightwinds coding portfolio
+
+## Skills
+
+## About Me
+
+## Work Experience
+
+## Past Projects
